@@ -23,23 +23,17 @@ input{
     width: 80%;
     margin-left: 10%;
     height: 30px;
-    cursor: pointer;
+   
 }
 
-button{
-    width:80% ;
-    height: 28px;
-    margin-left: 11%;
-    margin-top: 12px;
-    margin-bottom: 12px;
-    background-color: rgb(113, 205, 241);
+#submit{
+    background-color: rgb(64, 189, 231);
+    font-size: larger;
+    font-weight: 400;
     border: none;
-    font-size: 20px;
-    font-weight: 300;
-    color: white;
-    border-radius: 9px;
-    cursor: pointer;
+    border-radius: 4px;
 }
+
 
 .line {
     position: relative;
